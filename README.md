@@ -26,12 +26,12 @@ The book is available in chapter wise PDFs as well as complete book in PDF.
 
 Some useful links for this learning:
 
-Exercises(http://www.deeplearningbook.org/exercises.html)
-Lecture Slides(http://www.deeplearningbook.org/lecture_slides.html)
-External links(http://www.deeplearningbook.org/external.html)
+Exercises[http://www.deeplearningbook.org/exercises.html]
+Lecture Slides[http://www.deeplearningbook.org/lecture_slides.html]
+External links[http://www.deeplearningbook.org/external.html]
 
 
-If you like this book then buy a copy of it and keep it with you forever. This will help you and also support the authors and the people involved in the effort of bringing this beautiful piece of work to public. Buy it from amazon, It is not expensive $50-bucks(https://amzn.to/3VKCwC4)
+If you like this book then buy a copy of it and keep it with you forever. This will help you and also support the authors and the people involved in the effort of bringing this beautiful piece of work to public. Buy it from amazon, It is not expensive $50-bucks[https://amzn.to/3VKCwC4]
 
 
 
