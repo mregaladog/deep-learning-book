@@ -1,3 +1,7 @@
+![image](https://github.com/mregaladog/deep-learning-book/assets/171528893/430af96d-34f7-44bb-9c37-0698c0bf240b)
+![image](https://github.com/mregaladog/deep-learning-book/assets/171528893/daccabf1-3565-43f6-be53-fa4d4a84f28f)
+
+
 # deep_learning_book
 
 
